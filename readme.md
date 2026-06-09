@@ -63,8 +63,10 @@ python main.py
 ## Screenshots
 
 ![Gmail Automation Tool screenshot](screenshots/image.png)
-
 ![Gmail Automation Tool screenshot](screenshots/image%20copy.png)
+![Screenshot](screenshots/Screenshot 2026-06-09 165022.png)
+![Screenshot](screenshots/Screenshot 2026-06-09 165228.png)
+![Screenshot](screenshots/Screenshot 2026-06-09 165330.png)
 
 ## Project Structure
 
